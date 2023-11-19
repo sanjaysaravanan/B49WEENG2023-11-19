@@ -106,11 +106,6 @@ Task:
       blob --> 
         https://stackoverflow.com/questions/6472233/can-i-store-images-in-mysql
       BLOB(size) / TEXT (CDN URL)- images/vidoes
-
-  
-  
-  SQL Review:
-    Simple SELECT Queries
     
   Download MongoDB: windows download MSI
     Server:
